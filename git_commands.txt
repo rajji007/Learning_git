@@ -1,0 +1,17 @@
+git branch - Shows on which branch you are working
+
+git checkout <branch name> - Shift to branch
+
+git checkout -b <new branch name> - Creating new branch and shifting on it
+
+git status - tells about changes tracked/untracked
+
+git add <file name> - to add a file 
+
+git diff - tells differnce from last commit/ changes
+
+git push - push changes from local to origin(github)
+
+git push --set-upstream origin <branch name> - creates a new branch on origin from local
+
+
