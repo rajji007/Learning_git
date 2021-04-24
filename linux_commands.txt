@@ -2,5 +2,5 @@ cd
 mkdir
 ls
 more/cat - open file in readonly mode
-pwd- present working directory
+pwd - present working directory
 
